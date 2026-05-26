@@ -1,5 +1,11 @@
 # 🤖 Agentic Newsroom – Arquitetura de Micro-Agentes com IA
 
+<p align="center">
+  <a href="https://news2pi.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20HUB%20CENTRAL-Acessar%20Mural%20da%20Turma-0051ff?style=for-the-badge&logo=render&logoColor=white" alt="Hub Central">
+  </a>
+</p>
+
 ## 📌 Visão Geral
 
 Este repositório contém o **Hub Central** para o projeto de **Programação Avançada em Python** (50 Horas).
