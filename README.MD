@@ -87,3 +87,11 @@ teu_projeto/
 ├── 📄 requirements.txt
 ├── 📄 fake_hub.py                 # Para testes locais
 └── 📄 README.md
+
+
+# Configurar o hub correto
+$env:HUB_HOST="news2pi.onrender.com"
+$env:HUB_PORT="443"  # HTTPS
+
+# Ou diretamente no código:
+HUB_URL = "https://news2pi.onrender.com/publish"
