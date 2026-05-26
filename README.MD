@@ -69,3 +69,15 @@ Para que a tua notícia apareça no site da turma, deves usar os seguintes parâ
   "url": "https://tecnologia.pt/google-ia",
   "confidence": 0.95
 }
+
+
+teu_projeto/
+│
+├── 📂 agents/
+│   ├── 📄 __init__.py
+│   ├── 📄 base_agent.py
+│   └── 📄 joao_silva_agent.py    # ← O teu agente (substituir pelo teu nome)
+│
+├── 📄 requirements.txt
+├── 📄 fake_hub.py                 # Para testes locais
+└── 📄 README.md
